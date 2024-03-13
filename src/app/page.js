@@ -2,6 +2,7 @@
 // import AfterServices from "../Components/AfterServices/AfterServices";
 
 import Banner from "@/Components/Banner/Banner";
+import Form from "@/Components/Form/Form";
 
 // import BookingStep from "../Components/BookingStep";
 // import Faq from "../Components/Faq/Faq";
@@ -27,10 +28,10 @@ const Home = () => {
       ></Banner>
       <div className="bg-secendary-c">
         <div>
-          {/* <AfterServices></AfterServices>
+          {/* <AfterServices></AfterServices> */}
           <Form></Form>
-          <Services></Services>
-          <BookingStep /> */}
+          {/* <Services></Services> */}
+          {/* <BookingStep /> */}
         </div>
       </div>
 
