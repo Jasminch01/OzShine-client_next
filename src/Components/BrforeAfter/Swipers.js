@@ -19,10 +19,6 @@ const Swipers = () => {
       before: "https://i.ibb.co/Qkdf2bH/before-9.jpg",
       after: "https://i.ibb.co/jzNC24C/after-7.jpg",
     },
-    // {
-    //   before: "https://i.ibb.co/jLCNy7Z/before-3.jpg",
-    //   after: "https://i.ibb.co/2sJSZ3f/after-4.jpg",
-    // },
     {
       before: "https://i.ibb.co/xY7HPSN/before-5.jpg",
       after:
