@@ -1,8 +1,8 @@
 // import { Helmet } from "react-helmet";
-// import AfterServices from "../Components/AfterServices/AfterServices";
 
 import Banner from "@/Components/Banner/Banner";
 import Form from "@/Components/Form/Form";
+import AfterServices from "@/Components/ServicesBeforeAfter/AfterServices";
 
 // import BookingStep from "../Components/BookingStep";
 // import Faq from "../Components/Faq/Faq";
@@ -28,8 +28,8 @@ const Home = () => {
       ></Banner>
       <div className="bg-secendary-c">
         <div>
-          {/* <AfterServices></AfterServices> */}
-          <Form></Form>
+          <AfterServices/>
+          <Form/>
           {/* <Services></Services> */}
           {/* <BookingStep /> */}
         </div>
